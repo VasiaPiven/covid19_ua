@@ -9,7 +9,7 @@
 * Додатково
   * Пряме посилання на  версію для смартфону📱 - https://cutt.ly/COVID19_mobile
   
-  **Код для вставки візуалізації на сайті/порталі:**
+  **Код для вбудовування візуалізації на сайті/порталі:**
   ```javascript
   <iframe width="1280" height="760" src="https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9&amp;fbclid=IwAR3vOXvEK0l3SaGSAxZGgNyc4cNSi17wegJwcFX4oPefbVgUR16RsWDxGjg" frameborder="0" allowfullscreen="true"></iframe>
 
