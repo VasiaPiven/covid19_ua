@@ -7,7 +7,7 @@
 
 **Візуалізацію на основі цих даних можна переглянути тут:** https://nszu.gov.ua/e-data/dashboard/covid19
 
-**Пряме посилання на  версію для смартфону**📱 - https://cutt.ly/COVID19_mobile
+**Пряме посилання на  версію для смартфону**📱 - https://cutt.ly/COVID19_mob
   
 ---
 + **covid19_by_settlement_actual** -  актуальна інформація про всі випадки в розрізі  областей, районів та населених пунктів (за місцем реєстрації випадку).
@@ -23,5 +23,5 @@
    --- 
   **Код для вбудовування візуалізації на сайті/порталі:**
   ```javascript 
-  <iframe width="1280" height="760" src="https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9&amp;fbclid=IwAR3vOXvEK0l3SaGSAxZGgNyc4cNSi17wegJwcFX4oPefbVgUR16RsWDxGjg" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe width="1280" height="760" src=" https://app.powerbi.com/view?r=eyJrIjoiMjI3YmNkMzAtNDMyYy00ZTExLThhMTYtYzM3OTJlYzIzNDhmIiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9" frameborder="0" allowfullscreen="true"></iframe>
 
